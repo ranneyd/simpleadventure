@@ -6,7 +6,7 @@ Simple Adventure makes a really simple game. The game will be a series of rooms 
 
 For instance, you can have a simple haunted house. You begin in a room with some spooky objects like a diary and a lever and a door. The user can click on the diary and the game starts a "conversation" with the diary. The conversation just consists of the "diary" saying one thing, which is whatever you want the player to know about the diary, and the player can have one option to respond, which is "leave". The user could click on the level, which could set a variable called "leverPulled" to true, and somewhere down the line, you can do something with that variable. The user could click on the door, and it could transition them to a different 'scene', which is really just a room. You provide the art and the rules and the game is made for you.
 
-## How do I do it?
+## How do I do it? 
 
 Check out [this tutorial](tutorial.md).
 
